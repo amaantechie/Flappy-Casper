@@ -1,9 +1,8 @@
  
      // Board
      let board;
-     let boardWidth = window.innerWidth;
-     let boardHeight = window.innerHeight;
-
+     let boardWidth = 360;
+     let boardHeight = 640;
      let context;
  
      // Bird
